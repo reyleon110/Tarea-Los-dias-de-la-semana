@@ -1,5 +1,5 @@
 
-<body>
+<HTML>
 
 <h1> LOS DIAS DE LA SEMANA</h1>
 <body>
