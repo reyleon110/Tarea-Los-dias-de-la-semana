@@ -1,11 +1,11 @@
+<!doctype html>
+ <html>
+<head>
+ <title>pues pensarlo traelo contigo 2 </title>
+ </head>
 
-var dia = 3;
-
-
-switch (dia) {
-	case 1: 
-	   console.log("lunes");
-	break;
+<body>
+<h1> ideas y soluciones </h1?
 	case 2:
 	   console.log("martes");
 	break;
